@@ -1,0 +1,36 @@
+{
+  "name":"auto",
+  "aliases":[
+    "auto_test"
+  ],
+  "details":{
+    "desc":"none",
+    "usage":"none"
+  },
+  "cooldown":{
+    "duration":10,
+    "msg":"︱Tunggu *{sec} detik* untuk memanggil perintah bot lagi!",
+    "emoji":"wait"
+  },
+  "disable":{
+    "status":false,
+    "msg":"︱This command is on disable mode!",
+    "emoji":"alert"
+  },
+  "type":"hidden",
+  "isMedia":false,
+  "isNsfw":false,
+  "isOwner":false,
+  "isGroup":false,
+  "isPrivate":false,
+  "isBotAdmin":false,
+  "isAdmin":false,
+  "isBot":false,
+  "isPremium":false,
+  "isLimit":false,
+  "isQuery":false,
+  "isRegistered":false,
+  "nonPrefix":true,
+  "code":"yes",
+  "location":""
+}
